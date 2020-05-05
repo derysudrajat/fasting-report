@@ -1,0 +1,2 @@
+rootProject.name='Fasting Report'
+include ':app'
